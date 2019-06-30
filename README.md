@@ -2,7 +2,7 @@
 Responsive HTML Email Boilerplate Template
 
 # Demo:
-https://kdfriedman.github.io/email-boilerplate.html
+https://kdfriedman.github.io/email-boilerplate/email-boilerplate.html
 
 # Understanding the template:
 Use these code examples as a reference for formatting your HTML email to avoid many hours of headaches, battling through the dreaded Outlook Word Rendering engine and beyond. You will notice that the markup is essentially a **_frankensteined_** template, filled with hacks, tricks, and conditional formatting. Although, this is not ideal, neither is accommodating 88 client's worth of email code bases. This template has worked wonders for my past email campaigns so I wanted to share with anyone who needed a solid foundation use or build upon.
